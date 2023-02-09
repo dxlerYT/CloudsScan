@@ -14,7 +14,7 @@ Script to scan subdomains of a domain
 # Clone the repository
 $ git clone https://github.com/dxlerYT/CloudsScan/
 
-# Go into the RSubd folder
+# Go into the CS folder
 $ cd CS
 
 # Install the requirements
